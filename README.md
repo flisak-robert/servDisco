@@ -1,7 +1,7 @@
 # servDisco
-Filed based service discovery that works with Prometheus
+Filed based service discovery that works with Prometheus.
 
-Persistence will probably be needed so in order to achieve that, create these to files first:
+Persistence will probably be needed so in order to achieve that, create these two files first:
 
 `touch targets.json targets-ssl.json`
 
